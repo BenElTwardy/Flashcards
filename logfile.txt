@@ -1,0 +1,77 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Japan
+The definition of the card:
+Tokio
+The pair ("Japan":"Tokio") has been added:
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Germany
+The definition of the card:
+Berlin
+The pair ("Germany":"Berlin") has been added:
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+fkjds
+File not found.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+export
+File name:
+dkfj
+2 cards have been saved.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+There are no cards with errors.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+4
+Print the definition of "Germany":
+fkdj
+Wrong. The right answer is "Berlin".
+Print the definition of "Germany":
+Berlin
+Correct!
+Print the definition of "Japan":
+Tokio
+Correct!
+Print the definition of "Japan":
+Tokio
+Correct!
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest card is "Germany". You have 1 errors answering it.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats
+Card statistics have been reset.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+logfile.txt
+The log has been saved.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Alex
+The definition of the card:
+Invalide
+The pair ("Alex":"Invalide") has been added:
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+logfile.txt
+The log has been saved.
+

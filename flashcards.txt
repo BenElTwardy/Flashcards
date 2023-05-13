@@ -1,0 +1,5 @@
+Japan:Tokio:10
+China:Peking:4
+Frankreich:Paris:3
+Deutschland:Berlin:2
+England:London:10
