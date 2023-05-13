@@ -14,5 +14,8 @@
 - export -> export your temporary questions into a file
 - ask -> you can be asked with random questions of your temporary stack of questions
 - exit -> shut down the program
+- log -> you can log the things you have done during runtime into a log file 
 - hardest card -> witch of your questions is your hardest card to answer
 - reset stats -> reset the stats of your flashcards
+
+- the format of your file need to be : (Question):(Answer):(Mistakes)
